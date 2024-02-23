@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# it's a script that print its own paid #
+echo $$
