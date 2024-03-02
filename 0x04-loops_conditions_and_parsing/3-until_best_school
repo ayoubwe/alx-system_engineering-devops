@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Script that print "best school" 10 time.
+i=0
+until [ $i -eq 10 ]
+do
+	echo "Best School"
+	i=$((i+1))
+done
